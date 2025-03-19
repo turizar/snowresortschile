@@ -69,7 +69,7 @@ header h1 {
 /* Estilo para las imágenes principales */
 .content img {
     width: 100%; /* La imagen ocupará todo el ancho disponible */
-    height: auto; /* Mantener la proporción de la imagen */
+    height: 300px; /* Mantener la proporción de la imagen */
     object-fit: cover; /* Ajustar imagen sin distorsionar */
     border-radius: 12px;
     margin-bottom: 20px;
